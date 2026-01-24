@@ -11,6 +11,7 @@ int main()
     cout<<" The value of a+b is: "<<a+b<<endl;
     cout<<"The value of a-b is: "<<a-b<<endl;
     cout<<"The value of a*b is: "<<a*b<<endl;
-    cout<<"THe value of a/b is :"<<a/b<<endl;
-    
+    cout<<"THe value of a/b is :"<<a%b<<endl;
+    return 0;
+
 }
