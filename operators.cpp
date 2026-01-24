@@ -13,5 +13,9 @@ int main()
     cout<<"The value of a*b is: "<<a*b<<endl;
     cout<<"THe value of a/b is :"<<a%b<<endl;
     return 0;
-
+    // Assignment operators used to assign values to variables
+    int c= 3;
+    int d=23;
+    char f = 'a';
+    
 }
