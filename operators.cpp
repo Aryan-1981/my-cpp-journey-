@@ -26,6 +26,12 @@ int main()
     cout<<"The value of a<=b is :"<<(a<=b)<<endl;
     cout<<"The value of a>b is :"<<(a>b)<<endl;
     cout<<"The value of a<b is :"<<(a<b)<<endl;
+    //Logical Operators 
+    cout<<"Fourth one is Logical Operators"<<endl<<endl;
+    cout<<"The value of this logical AND operator is : ((a==b)&& (a<b)) is :"<<((a==b)&& (a<b))<<endl;
+    cout<<"The value of this logical OR operator is : ((a==b) || (a<b)) is :"<<((a==b)||(a<b))<<endl;
+    cout<<"The value of this logical NOT operator is : (!(a<b)) is :"<<(!(a<b))<<endl;
+
     return 0;
 
 }
