@@ -18,5 +18,10 @@ int main()
     cout<<" the value of float a is "<<float(a)<<endl;
     cout<<"The value of b is "<<b<<endl;
     cout<<"The value of in b is "<<int(b)<<endl;
+
+    // sum using typecasting
+    cout<<"The sum of a and b will be "<<a+b<<endl;
+    cout<<"The sum of a and int b will be "<<a+int(b)<<endl;
+    cout<<"The sum of a and int b will be "<<a+(int)b<<endl;
     return 0;
 }
