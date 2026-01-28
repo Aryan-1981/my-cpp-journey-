@@ -1,3 +1,6 @@
+// This is a example of selection structures
+
+
 #include<iostream>
 using namespace std;
 int main()
