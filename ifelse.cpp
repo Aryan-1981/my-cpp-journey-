@@ -2,9 +2,7 @@
 using namespace std;
 int main()
 {
-    int  name , age;
-    cout<<" Enter you name Please "<<endl;
-    cin>>name;
+    int age;
     cout<<" Enter your age"<<endl;
     cin>>age;
     if (age<18)
@@ -19,7 +17,7 @@ int main()
 }
 else
 {
-    cout<<name<<" You are allowed to the party"<<endl;
+    cout<<" You are allowed to the party"<<endl;
 
 }
 return 0;
